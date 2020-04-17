@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def greeting(name=John)
   puts "Hello, #{name}!"
 end
@@ -9,3 +10,10 @@ def greeting_with_language(name="Ruby Programmer", language="Ruby")
 end
 
 greeting_with_language("Celeste", "Elixer")
+=======
+def greeting_programmer(name)
+  puts"Hello, #{name}!"
+end
+
+greeting_programmer(John)
+>>>>>>> e4bdaaba4553febf5b63d54976ae05349de4faba
